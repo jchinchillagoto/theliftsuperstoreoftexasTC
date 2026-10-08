@@ -2,7 +2,13 @@ Terms and Conditions for SMS Messaging
 
 Effective Date: October 8, 2026
 
-By opting in to receive SMS/text messages from The Lift Super Store of Texas by Automotive Business Concepts, you agree to the following Terms and Conditions.
+By opting in to receive SMS messages from The Lift Super Store of Texas by Automotive Business Concepts, you agree to receive customer care messages.
+
+Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates may apply.
+You can opt out at any time by replying STOP.
+For help, reply HELP.
+Your information will be handled in accordance with our Privacy Policy: https://github.com/jchinchillagoto/theliftsuperstoreoftexasPP
 
 Business Information
 
